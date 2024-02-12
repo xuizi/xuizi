@@ -1,7 +1,5 @@
-- 👋 Hi, I’m João Paes
 - 👀 I’m interested in Linux (RHEL and RedHat), C, Python, Java and Database.
 - ⚡ Fun fact: I work with robots since 2017
-
 
 I'm João, a backend dev!
 <div align="center">
@@ -17,11 +15,11 @@ I'm João, a backend dev!
   <img align="center" alt="Logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Logo-RedHat" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original-wordmark.svg">
-  <img align="center" alt="Logo-Unix" height="30" width="40" src="  https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg">
+  <img align="center" alt="Logo-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
 <div align="center">
   <a href = "mailto:joaopaes083@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/joão-pedro-paes1234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joão-pedro-paes1234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
