@@ -17,7 +17,7 @@ I'm João, a backend dev!
   <img align="center" alt="Logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Logo-RedHat" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original-wordmark.svg">
-  <img align="center" alt="Logo-RedHat" height="30" width="40" src="  https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg">
+  <img align="center" alt="Logo-Unix" height="30" width="40" src="  https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg">
 </div>
 
 <div align="center">
