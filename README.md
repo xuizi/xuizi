@@ -1,4 +1,4 @@
-- 👀 I’m interested in Linux (RHEL and RedHat), C, Python, Java and Database.
+- 👀 I’m interested in Linux (RHEL and Ubuntu), C, Python, Java and Database (SQL & NoSQL).
 - ⚡ Fun fact: I work with robots since 2017
 
 I'm João, a backend dev!
